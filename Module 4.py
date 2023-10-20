@@ -1,4 +1,4 @@
-""""#1.
+#1.
 number = 1
 while number <= 1000:
     if number % 3 == 0:
@@ -64,7 +64,7 @@ while tries < 5:
         break
     else:
         print("Access denied")
-        tries += 1 """
+        tries += 1
 
 
 #6.
