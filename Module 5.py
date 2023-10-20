@@ -1,4 +1,4 @@
-""""#1.
+#1.
 import random
 
 dice_number = int(input("How many times you want to roll the dice?"))
@@ -52,4 +52,4 @@ for i in range(5):
     cities.append(city_name)
 print("Cities entered: ")
 for city in cities:
-    print(city)"""
+    print(city)
